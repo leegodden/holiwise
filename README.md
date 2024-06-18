@@ -36,14 +36,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ///////////////////////////////
-
-# TODO
-
-1. [x] Add functionality to click on folder and view images in modal
-2. [x] Add functionality for an upvoting system to each destination (likes)
-3. [x] Add functionality to store folder and image state in Local storage so its persitant
-4. [x] Add functionality to delete and rename a folder
-
-5. [x] Create a second page using the Folder.tsx component
-6. [x] Add Left Hand Panel as My Trips page and add further style exhancements
-7. Deploy on Vercel
